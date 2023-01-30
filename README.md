@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello! 🌱
+
+I'm Louis Boulanger, PhD student at the [IMAG Laboratory](https://liglab.fr/en). My research subject is about persistent memory and the Rust programming language.
+
+
 
 <!--
 **boulanlo/boulanlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
